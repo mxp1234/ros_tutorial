@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/hello_world_node.dir/src/helloworld_c.cpp.o  -o /home/mxp/ros/devel/lib/hello_world/hello_world_node 

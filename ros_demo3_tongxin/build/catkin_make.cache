@@ -1,0 +1,2 @@
+plumbing_param_server:plumbing_pub_sub:plumbing_server_client
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/mxp/ros_demo3_tongxin/devel -DCMAKE_INSTALL_PREFIX=/home/mxp/ros_demo3_tongxin/install -G Unix Makefiles

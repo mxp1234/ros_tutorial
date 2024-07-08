@@ -1,0 +1,2 @@
+hello_world
+-DCATKIN_DEVEL_PREFIX=/home/mxp/ros_demo2/devel -DCMAKE_INSTALL_PREFIX=/home/mxp/ros_demo2/install -G Unix Makefiles

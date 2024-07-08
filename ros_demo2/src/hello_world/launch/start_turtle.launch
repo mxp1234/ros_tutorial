@@ -1,0 +1,8 @@
+<launch>
+    <!--nihao -->
+    <!--启动乌龟gui-->
+    <node pkg="turtlesim" type="turtlesim_node" name="xx"/>
+    <node pkg="turtlesim" type="turtle_teleop_key" name="key"/>
+    <node pkg="hello_world" type="hello_vscode_c" name="xxx" output="screen"/>  
+    <!--output参数是为了使info能够显示-->
+</launch>
